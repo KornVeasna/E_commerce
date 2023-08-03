@@ -17,18 +17,38 @@
       </div>
       <div class="col-md-3">
         <h4>Follow Us</h4>
-        <ul class="list-unstyled list-inline">
-          <li class="list-inline-item"><a href="#"><i class="fab fa-facebook fa-lg"></i></a></li>
-          <li class="list-inline-item"><a href="#"><i class="fab fa-twitter fa-lg"></i></a></li>
-          <li class="list-inline-item"><a href="#"><i class="fab fa-instagram fa-lg"></i></a></li>
-          <li class="list-inline-item"><a href="#"><i class="fab fa-linkedin fa-lg"></i></a></li>
-        </ul>
+                <!-- Section: Social -->
+                <section class="mb-4">
+                    <!-- Facebook -->
+                    <a class="btn btn-outline-light btn-floating m-1 custom-color" href="#!" role="button">
+                      <img src="../assets/img/Facebook_Logo.png" alt="" style="height: 50px ;">
+                      <div>Facebook</div>
+                    </a>
+
+                    <!-- Twitter -->
+                    <a class="btn btn-outline-light btn-floating m-1 custom-color" href="#!" role="button">
+                      <img src="../assets/img/twitter.png" alt="" style="height: 50px ;">
+                      <div>Twitter</div>
+                    </a>
+
+                    <!-- Google -->
+                    <a class="btn btn-outline-light btn-floating m-1 custom-color" href="#!" role="button">
+                      <img src="../assets/img/Google__G__Logo.svg.png" alt="" style="height: 50px;">
+                      <div>Google</div>
+                    </a>
+
+                    <!-- Github -->
+                    <a class="btn btn-outline-light btn-floating m-1 custom-color" href="#!" role="button">
+                      <img src="../assets/img/github.png" alt="" style="height: 50px;">
+                      <div>GitHub</div>
+                    </a>
+                </section>
       </div>
     </div>
     <div class="row">
       <div class="col-md-12">
         <hr>
-        <p class="text-center">&copy; 2023 Your Company. All rights reserved.</p>
+        <p class="text-center">&copy; 2023 FOOD ORDERING. All rights reserved.</p>
       </div>
     </div>
   </div>
